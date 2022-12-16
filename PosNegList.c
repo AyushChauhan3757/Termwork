@@ -1,5 +1,5 @@
 //By Ayush Chauhan Btech CST 21021257
-//Question 7
+//Question 2
 typedef struct node{
 	int data;
 	struct node *next;
