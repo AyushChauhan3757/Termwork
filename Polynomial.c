@@ -50,6 +50,7 @@ void display(nodetype *head)                    //Display Function
     printf("%d\n", head->data);
 }
 int main(){
+	printf("By Ayush Chauhan Btech CST 21021257\n");
 	nodetype *p1, *p2, *p3;
 	p1=p2=p3=NULL;
 	int x;
