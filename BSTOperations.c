@@ -116,7 +116,7 @@ int rightCount(bsttype* root)                       //funtion to calculate total
 int main() {
     int ch;
     bsttype* root = NULL;
-    printf("By Ayush Chauhan Btech CST 21021257");
+    printf("By Ayush Chauhan Btech CST 21021257\n");
     printf("Enter 1 to insert node\n2 to display\n3 to search a key");
     printf("\n4 to delete a Node from the tree\n5 to count leaf nodes");
     printf("\n6 to find height of the tree\n7 to count total nodes in right subtree");
